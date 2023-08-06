@@ -1,12 +1,9 @@
+"use client"
+
 import { useState } from "react";
 import { ChevronLeftIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import Image from "next/image";
-
-export const metadata = {
-  title: 'Nkponani Limited | Contact',
-  description: 'Message us at Nkponani Limited, the Nobus Cloud Company',
-}
 
 function Contact() {
 
